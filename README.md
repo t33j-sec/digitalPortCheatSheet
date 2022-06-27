@@ -13,9 +13,10 @@ Very early version of software located at Pre-Alpha.py. This is more of a PoC th
 
 Things to work on:
 
-    * Add Port -> Service functionality.
-    * Figure out how to not have to delete text inside submission box manually. 
-    * Error Handling
-      * Service/Proto not found
-      * Bad input
-    * Add TCP/UDP Options
+* Add Port -> Service Functionality
+* Figure out how to not have to delete text inside submission box manually
+* Error Handling:
+	* 	Service/Proto not found
+	* 	Bad Input
+* Add TCP/UDP Options
+* Add SSL Options	
